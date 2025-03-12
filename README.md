@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ```
 
 ## 3. clone .env.sample and rename it to .env and change with credentials
+
+Mistral OCR is not available on Azure. You can create an account and setup the API key at https://console.mistral.ai/ .
