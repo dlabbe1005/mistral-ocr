@@ -1,0 +1,17 @@
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Code Execution related
+ipykernel==6.26.0
+pre-commit>=2.19.0
+tenacity>=8.2.2
+pytest>=7.0.0
+ipywidgets
+
+# PDF related
+PyPDF2>=3.0.1
+
+# Mistral
+mistralai
+
+pillow
